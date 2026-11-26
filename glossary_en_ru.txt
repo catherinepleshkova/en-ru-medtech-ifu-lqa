@@ -1,0 +1,31 @@
+Source_EN,Target_RU,Domain,Regulatory_Reference_or_Note
+Intended use,Назначение,Regulatory / Dossier,EAEU Decision No. 46 / Roszdravnadzor
+Single-use,Однократного применения,Labeling / IFU,ГОСТ Р ИСО 15223-1 (символ 5.4.2)
+Do not re-sterilize,Повторная стерилизация запрещена,Labeling / IFU,ГОСТ Р ИСО 15223-1 (символ 5.2.6)
+Shelf life,Срок годности,Labeling / Dossier,ГОСТ Р ИСО 15223-1
+Batch code / Lot number,Код партии / Номер партии,Labeling,ГОСТ Р ИСО 15223-1 (символ 5.1.5)
+Adverse event,Нежелательное событие,Post-Market Surveillance,ГОСТ Р ИСО 14971 / ЕАЭС
+Field Safety Corrective Action (FSCA),Корректирующее действие по безопасности на местах,Post-Market Surveillance,Regulatory standard
+Biocompatibility,Биосовместимость,Testing / Dossier,ГОСТ ISO 10993-1
+Electromagnetic compatibility (EMC),Электромагнитная совместимость (ЭМС),Technical Specs,ГОСТ Р МЭК 60601-1-2
+Mechanical ventilation,Искусственная вентиляция легких (ИВЛ),Clinical / ICU,Standard clinical term
+Non-invasive ventilation (NIV),Неинвазивная вентиляция легких (НИВЛ),Clinical / ICU,Standard clinical term
+Positive end-expiratory pressure (PEEP),Положительное давление в конце выдоха (ПДКВ),Ventilation Parameters,Standard clinical term
+Tidal volume (Vt),Дыхательный объем (ДО),Ventilation Parameters,Standard clinical term
+Inspiratory pressure,Давление на вдохе,Ventilation Parameters,Technical / Clinical
+Breathing circuit,Дыхательный контур,Consumables,Medical equipment
+Leak test,Тест на герметичность,Pre-use Check,Engineering / Metrology
+Circuit compliance,Растяжимость дыхательного контура,Pre-use Check,Avoid raw transliteration without context
+Calibration,Калибровка,Maintenance / Metrology,Distinguish from verification (поверка)
+Preventive maintenance,Техническое обслуживание (ТО),Maintenance,ГОСТ 18322
+Ingress Protection (IP rating),Степень защиты оболочки (код IP),Technical Specs,ГОСТ 14254 (IEC 60529)
+Applied part (Type BF / CF),Рабочая часть (типа BF / CF),Electrical Safety,ГОСТ Р МЭК 60601-1
+Defibrillation-proof,Защита от разряда дефибриллятора,Electrical Safety,ГОСТ Р МЭК 60601-1
+Alarm limit,Предел срабатывания тревожной сигнализации,UI / Software,IEC 60601-1-8
+Silencing an alarm,Отключение звукового сигнала тревоги,UI / Software,IEC 60601-1-8
+Contraindications,Противопоказания,Clinical / IFU,Standard section header
+Precautions,Меры предосторожности,Safety / IFU,Standard section header
+Flammable anesthetics,Легковоспламеняющиеся анестетики,Safety / IFU,IEC 60601-1
+Intra-hospital transport,Внутрибольничная транспортировка,Clinical / ICU,Avoid «внутрибольничный транспорт»
+Sterile barrier system,Система барьерная для стерилизации,Packaging / Sterilization,ГОСТ ISO 11607-1
+Manufacturer,Изготовитель,Regulatory / Labeling,Use «изготовитель» instead of «производитель» in RF dossiers
