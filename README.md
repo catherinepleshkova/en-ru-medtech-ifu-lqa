@@ -3,7 +3,8 @@
 **Author:** Catherine Pleshkova (`@catherinepleshkova`)  
 **Domain:** Medical Devices (Class IIb/III), Intensive Care Equipment, Regulatory Documentation  
 **Language Pair:** English (EN) → Russian (RU)  
-**Focus:** Linguistic Quality Assurance (LQA), Terminology Management (ISO 13485 / ГОСТ Р ИСО 15223-1), Stylistic & Technical Editing  
+**Focus:** Linguistic Quality Assurance (LQA), Terminology Management, Stylistic & Technical Editing  
+![Standards](https://img.shields.io/badge/Standards-ISO_13485%2C_%D0%93%D0%9E%D0%A1%D0%A2_%D0%A0_%D0%98%D0%A1%D0%9E_15223--1-green?style=flat-square)
 
 ---
 
